@@ -31,3 +31,15 @@ This folder contains **Task 1** of my Data Analyst Internship at **SWYNEX Techno
 ```bash
 pip install pandas numpy
 python data_cleaning.py
+```
+
+## 📊 Results
+- **Before:** 1000 rows, 16 columns, 400+ missing values  
+- **After:** ~994 rows, 19 columns, 0 missing values  
+
+---
+
+## 👤 Author
+**Waseque Ahmad** — Data Analyst Intern @ SWYNEX Technologies  
+Intern ID: `SWX-2026-001813`
+
