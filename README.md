@@ -7,7 +7,7 @@ This repository contains all tasks completed during my Data Analyst Internship a
 | Task | Description | Link |
 |---|---|---|
 | Task 1 | Data Cleaning & Preparation | [View](./Task-1-Data-Cleaning-Preparation/) |
-| Task 2 | (Coming soon) | - |
+| Task 2 | Airbnb NYC — Exploratory Data Analysis (EDA) | [View](./Task-2-Airbnb-NYC-EDA/) |
 | Task 3 | (Coming soon) | - |
 
 ## 👤 Author
